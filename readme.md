@@ -10,7 +10,7 @@ This collection of webpages was created as an exercise to practice html. It deta
 
 ## Setup/installation
 
-* Clone the repository from http://github.com/bradcopenhaver/my-first-webpage
+* Clone the repository from https://github.com/bradcopenhaver/my-first-webpage
 * Bask in the glory of this simple webpage
 
 ### License
